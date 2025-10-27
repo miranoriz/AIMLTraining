@@ -1,4 +1,4 @@
-# tuple is ordered and immutable collection
+# tuple is ordered and mutable collection
 #fixed data that should not be changed
 
 # number = (1,2,3,4,5,4,3,4,6,7,7,5,4,3)
